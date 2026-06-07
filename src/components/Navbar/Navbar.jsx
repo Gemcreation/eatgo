@@ -3,7 +3,12 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div>
-      Welcome Gem, Welcome world
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Contact</li>
+        <li>Blog</li>
+      </ul>
     </div>
   )
 }
