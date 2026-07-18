@@ -34,6 +34,9 @@ const Navbar = () => {
           <li className="p-4 border-b border-gray-500">Home</li>
           <li className="p-4 border-b border-gray-500">About</li>
           <li className="p-4 border-b border-gray-500">Contact</li>
+          <li className="p-4 border-b border-gray-500">Home</li>
+          <li className="p-4 border-b border-gray-500">About</li>
+          <li className="p-4 border-b border-gray-500">Contact</li>
           <li className="p-4">Blog</li>
         </ul>
       </div>
