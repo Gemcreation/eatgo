@@ -25,9 +25,9 @@ const Navbar = () => {
       </div>
       {/* for mobile icons */}
       </div>
-      {/* <div className={nav ? "fixed left-0 top-0 border-r h-full bg-[#bd2] w-[50%]" : "fixed hidden"}>
+      <div className={nav ? "fixed left-0 top-0 border-r h-full bg-[#bd2] w-[50%]" : "fixed hidden"}>
       </div> note: hidden works same as = left-[-100%]
-      */}
+     
       <div className={!nav ? "fixed left-0 top-0 border-r h-full bg-[#bd2] w-[50%]" : "fixed top-0 -translate-x-full transition-all duration-600 ease-in-out "}>
         {/* <h1 className="m-4">EATGO</h1> */}
         <ul className="uppercase mt-2">
