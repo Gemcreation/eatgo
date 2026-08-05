@@ -17,10 +17,6 @@ const Navbar = () => {
           <li className='p-4'>Contact</li>
           <li className='p-4'>Blog</li>
           {/* not needed navs */}
-          <li className='p-4'>Home</li>
-          <li className='p-4'>About</li>
-          <li className='p-4'>Contact</li>
-          <li className='p-4'>Blog</li>
         </ul>   
       </div> 
 
